@@ -38,4 +38,4 @@ Output: example.wav
 - Ensure the `.ssf` files are valid and contain audio data.
 
 ## License
-This script is provided as-is without any warranty. Use it at your own risk.
+This project is licensed under the [Apache License 2.0](./LICENSE).
